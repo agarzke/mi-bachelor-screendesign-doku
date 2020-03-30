@@ -16,19 +16,19 @@ Enthält alle Regeln zum Layout.
 #l-mainHeader{
   padding: var(--l);
   padding-bottom: var(--xxl);
-  background: var(--color-background-dark);
+  background: black;
   color: var(--color-backgrounds);
   margin-bottom: var(--xl);
 }
 
-/*
+
 .l-mainHeader-title{
   margin-bottom: var(--xxl);
   border-bottom: solid 1px var(--color-text-light);
   margin-bottom: var(--xxxl);
   padding-bottom: var(--xxl);
 }
-*/
+
 
 #l-mainHeader .m-portfolioItem-title,
 #l-mainHeader .m-portfolioItem-subtitle{
