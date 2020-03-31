@@ -90,12 +90,13 @@ Enthält alle Regeln zu Module.
 .m-linkButton{
   display: inline-block;
   padding: var(--xs) var(--s);
-  background-color: var(--color-accent);
-  color: var(--color-backgrounds);
+  background-color: #FFCC00;
+  color: black;
   border: none;
   transition: all 0.2s;
 }
 
 .m-linkButton:hover{
+  color:white;
   background: #000;
 }
